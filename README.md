@@ -1,16 +1,20 @@
-# healthy_body_app
+# Healthy Body App
 
-A new Flutter project.
+Healthy Body is an application that helps us to calculate a healthy weight for our body or to know whether our body is ideal or not. This application has two features that allow us to use the BMI or Broca formula to calculate it.
 
-## Getting Started
+<h3>Tools</h3>
 
-This project is a starting point for a Flutter application.
+<ul>
+<li>Visual Studio Code</li>
+<li>Flutter SDK</li>
+<li>Figma</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+<h3>State Management</h3>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<ul><li>Provider</li></ul>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Preview</h3>
+
+![Healthy Body App Banner](https://user-images.githubusercontent.com/79519141/150157101-272a2f2d-13d7-47bb-aafc-f23ef1e9699c.png)
+
