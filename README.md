@@ -18,4 +18,4 @@ Healthy Body is an application that helps us to calculate a healthy weight for o
 
 <h3>Preview</h3>
 
-![Healhy Body Banner](https://user-images.githubusercontent.com/79519141/150279269-38189f43-bd15-4461-ad03-7021806111c5.png)
+![Healthy Body Calculator Banner](https://user-images.githubusercontent.com/79519141/150279679-0b5c613b-e244-4c4f-a875-c227c5c4a973.png)
