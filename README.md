@@ -17,4 +17,3 @@ Healthy Body is an application that helps us to calculate a healthy weight for o
 <h3>Preview</h3>
 
 ![Healthy Body App Banner](https://user-images.githubusercontent.com/79519141/150157101-272a2f2d-13d7-47bb-aafc-f23ef1e9699c.png)
-

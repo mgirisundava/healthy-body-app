@@ -84,7 +84,7 @@ class BrocaResultPage extends StatelessWidget {
                         Column(
                           children: [
                             AutoSizeText(
-                              'MALE',
+                              broca.isMale == true ? 'MALE' : 'FEMALE',
                               style: greyTextStyle.copyWith(
                                 color: broca.color,
                                 fontSize: 16,

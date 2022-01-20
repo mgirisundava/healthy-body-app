@@ -97,7 +97,7 @@ class BmiResultPage extends StatelessWidget {
                               height: 10,
                             ),
                             AutoSizeText(
-                              '18,5 - 25 kg/m2',
+                              '18,5 - 24.9 kg/m2',
                               style: whiteTextStyle.copyWith(
                                 color: greenColor,
                                 fontSize: 16,
